@@ -33,7 +33,7 @@ ldoc.Close(true);
 
 As you can see in the screenshot, the email address in the PDF file is completely removed without any trace and you cannot find or select the redacted content.
 
-![Redact without color](Screenshots/RedactPDFWithNoColor.png)
+![Redact without color](PDFRedaction/Screenshots/RedactPDFWithNoColor.png)
 
 ## Redact PDF with fill color
 
@@ -49,7 +49,7 @@ lpage.Redactions.Add(redaction);
 
 ```
 
-![Redact with color](Screenshots/RedactedPDFWithColor.png)
+![Redact with color](PDFRedaction/Screenshots/RedactedPDFWithColor.png)
 
 ## Redact PDF with code sets and entries
 
@@ -76,7 +76,7 @@ lpage.Redactions.Add(redaction);
 
 ```
 
-![Redact with color](Screenshots/RedactedPDFWithCodeSet.png)
+![Redact with color](PDFRedaction/Screenshots/RedactedPDFWithCodeSet.png)
 
 ## Redact image in PDF - OCR
 
@@ -151,7 +151,7 @@ using (OCRProcessor processor = new OCRProcessor(@"../../TesseractBinaries/3.02/
 
 ```
 
-![Redact with color](Screenshots/AfterRedactingPDF.png)
+![Redact with color](PDFRedaction/Screenshots/AfterRedactingPDF.png)
 
 # How to run the examples
 * Download this project to a location in your disk. 
