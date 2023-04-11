@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFRedaction", "PDFRedaction\PDFRedaction.csproj", "{AD5C7DEA-89CC-47E1-BE75-1C1128F18AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5C7DEA-89CC-47E1-BE75-1C1128F18AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5C7DEA-89CC-47E1-BE75-1C1128F18AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5C7DEA-89CC-47E1-BE75-1C1128F18AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5C7DEA-89CC-47E1-BE75-1C1128F18AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8105C6CD-6227-4E51-86B0-76D92D33AAE8}
+	EndGlobalSection
+EndGlobal
