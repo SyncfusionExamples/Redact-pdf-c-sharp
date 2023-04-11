@@ -8,7 +8,7 @@ Redacting a PDF is the process of permanently removing sensitive or confidential
 
 Sample name | Description
 --- | ---
-PDFRedaction | Sample to redact PDF document in multiple ways. 
+[PDFRedaction](https://github.com/SyncfusionExamples/Redact-pdf-c-sharp/tree/master/PDFRedaction) | Sample to redact PDF document in multiple ways. 
 
 ## Redact PDF without color 
 
